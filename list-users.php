@@ -1,5 +1,5 @@
 <?php
-/*
+/* hehe
 Plugin Name: list users
 Plugin URI:  http://link to your plugin homepage
 Description: This plugin replaces words with your own choice of words.
